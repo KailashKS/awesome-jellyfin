@@ -398,7 +398,7 @@ clients:
         repo: streamyfin
 
   - name: "Switchfin"
-    targets: [NintendoSwitch, macOS, Linux, Windows]
+    targets: [NintendoSwitch]
     official: false
     beta: true
     oss: https://github.com/dragonflylee/switchfin
